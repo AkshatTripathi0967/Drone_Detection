@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Drones/Drones/train
+val: /content/drive/MyDrive/Drones/Drones/valid
+nc: 1
+names: ['drone']
