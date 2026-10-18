@@ -193,4 +193,4 @@ This project is released under the **[MIT / Apache 2.0 / other]** license. See t
 
 ## 📬 Contact
 
-**[Akshat Tripathi]**: [akshatt030@gmail.com] · [GitHub] https://github.com/AkshatTripathi0967 · [LinkedIn](https://www.linkedin.com/in/akshat-tripathi-76122a2a2)
+**[Akshat Tripathi]**: [akshatt030@gmail.com] · [GitHub] https://github.com/AkshatTripathi0967 · [LinkedIn] https://www.linkedin.com/in/akshat-tripathi-76122a2a2
